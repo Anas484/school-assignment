@@ -1,0 +1,1 @@
+{"version":3,"file":"SchoolController.d.ts","sourceRoot":"","sources":["../../src/controllers/SchoolController.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,OAAO,EAAE,QAAQ,EAAE,MAAM,SAAS,CAAC;AAQjD,QAAA,MAAM,SAAS,GAAU,KAAM,OAAO,EAAG,KAAK,QAAQ,4DAqBrD,CAAA;AAGD,QAAA,MAAM,WAAW,GAAU,KAAM,OAAO,EAAG,KAAK,QAAQ,kBAiBvD,CAAA;AAID,OAAO,EACH,SAAS,EACT,WAAW,EACd,CAAA"}
