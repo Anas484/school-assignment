@@ -2,6 +2,10 @@
 
 A Node.js/Express API for managing schools with location-based features. This application allows you to add schools and retrieve them sorted by distance from a given location.
 
+## Live Demo
+
+https://school-management-api.onrender.com
+
 ## 🚀 Features
 
 - Add new schools with location data
@@ -196,17 +200,6 @@ src/
 └── index.ts                   # Express app setup
 ```
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
-
-## 📄 License
-
-This project is licensed under the ISC License.
 
 ## 🐛 Troubleshooting
 
@@ -224,14 +217,3 @@ This project is licensed under the ISC License.
 3. **Port Already in Use**
    - Change the PORT in your .env file
    - Kill the process using the port
-
-### Getting Help
-
-If you encounter any issues, please:
-1. Check the troubleshooting section above
-2. Review the error logs
-3. Open an issue on GitHub
-
----
-
-**Built with ❤️ using Node.js, Express, TypeScript, and Prisma**
